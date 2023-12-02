@@ -6,5 +6,5 @@ Some more [information](https://adventofcode.com/2023/about) about Advent of Cod
 
 ## Further info
 
-Daily updated [calendar](https://adventofcode.com/2023)
-Past events can be found [here](https://adventofcode.com/2023/events)
+* Daily updated [calendar](https://adventofcode.com/2023)
+* Past events can be found [here](https://adventofcode.com/2023/events)
