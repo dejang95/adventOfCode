@@ -1,0 +1,15 @@
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/bin/Debug/net8.0/Day1
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/bin/Debug/net8.0/Day1.deps.json
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/bin/Debug/net8.0/Day1.runtimeconfig.json
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/bin/Debug/net8.0/Day1.dll
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/bin/Debug/net8.0/Day1.pdb
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.AssemblyInfoInputs.cache
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.AssemblyInfo.cs
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.csproj.CoreCompileInputs.cache
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.sourcelink.json
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.dll
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/refint/Day1.dll
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.pdb
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/Day1.genruntimeconfig.cache
+/Users/dejang/Development/Repos/AdventOfCode/2023/Day1/obj/Debug/net8.0/ref/Day1.dll
